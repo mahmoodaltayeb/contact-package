@@ -1,0 +1,19 @@
+{
+    "name": "rumman/contact",
+    "description": "send emails",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rumman\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MahmoodRumman",
+            "email": "mahmood.altayeb@rumman.tech"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
